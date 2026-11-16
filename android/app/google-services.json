@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1091595547030",
+    "project_id": "studentapp-43295",
+    "storage_bucket": "studentapp-43295.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091595547030:android:10c88fe5aa75f355576db7",
+        "android_client_info": {
+          "package_name": "com.example.studentapp_maniago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091595547030-c4n43aojsk88getbd589vk56v89iudnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3exzi7RGYdlDOgrfNRW9VJDC2XSpsQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091595547030-c4n43aojsk88getbd589vk56v89iudnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091595547030-duv8m14hhau9fnk47hh905fub8hjcu6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentappManiago"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091595547030:android:1da9e20b97dea0a4576db7",
+        "android_client_info": {
+          "package_name": "com.google.student_4b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091595547030-c4n43aojsk88getbd589vk56v89iudnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3exzi7RGYdlDOgrfNRW9VJDC2XSpsQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091595547030-c4n43aojsk88getbd589vk56v89iudnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091595547030-duv8m14hhau9fnk47hh905fub8hjcu6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentappManiago"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
